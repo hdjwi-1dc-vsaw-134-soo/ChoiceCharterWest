@@ -3471,7 +3471,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"human-services-winter.png"
+         "value":"cc-human-services.png"
         }, 
         {
          "name":"mapName",

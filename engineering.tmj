@@ -3516,7 +3516,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"engineering-winter.png"
+         "value":"cc-engineering.png"
         }, 
         {
          "name":"mapName",

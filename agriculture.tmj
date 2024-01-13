@@ -2905,7 +2905,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"agriculture.png"
+         "value":"cc-agriculture.png"
         }, 
         {
          "name":"mapName",
